@@ -1,6 +1,20 @@
 Cura-dev
 ====
-尝试定制自己的版本,期间可能会遇到不少阻力吧
+尝试定制自己的版本,期间可能会遇到不少阻力
+开发环境 win10虚拟机64位（有点慢慢的感觉，大家可以尝试win7,或者直接实体环境)
+
+粗略浏览代码，发现gui采用wxpython
+
+环境搭建
+====
+确保你的git安装无误且可以正常工作
+安装python (暂时没搞明白是哪个版本，先看看情况吧）
+工作目录里打开cmd窗口,git clone https://github.com/daid/Cura.git
+linux 在终端窗口 git clone https://github.com/daid/Cura.git
+
+
+
+
 Cura
 ====
 

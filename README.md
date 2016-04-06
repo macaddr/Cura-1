@@ -8,7 +8,7 @@ Cura-dev
 环境搭建
 ====
 确保你的git安装无误且可以正常工作
-安装python (暂时没搞明白是哪个版本，先看看情况吧）
+安装python2.7
 工作目录里打开cmd窗口,git clone https://github.com/daid/Cura.git
 linux 在终端窗口 git clone https://github.com/daid/Cura.git
 
